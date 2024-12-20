@@ -1,2 +1,2 @@
 # IW_dynmodes
-Calculation of Vertical Dynamic Ocean Modes for Internal Waves
+Python function of Vertical Dynamic Ocean Modes for Internal Waves
